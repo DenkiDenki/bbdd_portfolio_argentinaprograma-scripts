@@ -1,0 +1,1 @@
+INSERT INTO `persona`(`persona_id`, `nombre`, `apellido`, `telefono`, `correo`, `sobre_mi`, `url_bio_img`) VALUES ('1','Yésica Denisa','Gerez','+5491167800611','denisa.gerez@gmail.com','un poco de info sobre mi','')

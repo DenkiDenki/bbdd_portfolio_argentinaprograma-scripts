@@ -1,0 +1,1 @@
+INSERT INTO `educacion`(`educacion_titulio`, `educacion_descripcion`, `edu_fecha_inicio`, `edu_fecha_final`, `en_curso`, `persona_id`) VALUES ('Tecnicatura en Análisis de Sistemas','', '2007-03-01','2009-08-01', 0, 1);
